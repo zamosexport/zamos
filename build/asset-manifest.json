@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b2d9484.css",
+    "main.js": "/static/js/main.5c5112db.js",
+    "static/js/787.deeec6c3.chunk.js": "/static/js/787.deeec6c3.chunk.js",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7a9cf98cf62a1864d467.png",
+    "static/media/foodLanding.gif": "/static/media/foodLanding.f358492cdeace303b09c.gif",
+    "static/media/logo.png": "/static/media/logo.f6811290f9f88d42327d.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/logo5.png": "/static/media/logo5.c18c42f55e4c3096d7b3.png",
+    "static/media/des6.jpg": "/static/media/des6.27a46256bb7631e8dfb6.jpg",
+    "static/media/bg5.png": "/static/media/bg5.959e0101783d39f6bfc0.png",
+    "static/media/des3.jpg": "/static/media/des3.53f96fe6aa6997d1fd5c.jpg",
+    "static/media/des2.jpg": "/static/media/des2.d27195fdd2eac4864077.jpg",
+    "static/media/des1.jpg": "/static/media/des1.317ff572118af6604593.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/vodafone.png": "/static/media/vodafone.19bd643a3b52169bbae3.png",
+    "static/media/paypal.png": "/static/media/paypal.04b3edb65b438fe60d98.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/des5.jpg": "/static/media/des5.a7323d12a6e0c2bb8402.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/project.png": "/static/media/project.4ae79295b674aee97727.png",
+    "static/media/review3.jpg": "/static/media/review3.b833af4630f10617157b.jpg",
+    "static/media/review1.jpg": "/static/media/review1.e0a5005523380e501908.jpg",
+    "static/media/des4.jpg": "/static/media/des4.4fa2c00201621656da93.jpg",
+    "static/media/review2.jpg": "/static/media/review2.818b57df1208a5877018.jpg",
+    "static/media/review4.jpg": "/static/media/review4.ddf312671e7f76ab57d7.jpg",
+    "static/media/review5.jpg": "/static/media/review5.9ee26f9c52f6cc0c7035.jpg",
+    "static/media/review6.jpg": "/static/media/review6.b79152448566fba8b1f0.jpg",
+    "index.html": "/index.html",
+    "main.7b2d9484.css.map": "/static/css/main.7b2d9484.css.map",
+    "main.5c5112db.js.map": "/static/js/main.5c5112db.js.map",
+    "787.deeec6c3.chunk.js.map": "/static/js/787.deeec6c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2d9484.css",
+    "static/js/main.5c5112db.js"
+  ]
+}
